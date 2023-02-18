@@ -16,6 +16,7 @@
 		CE5A4FF029A13C5A00EB9D49 /* myDiceeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5A4FEF29A13C5A00EB9D49 /* myDiceeTests.swift */; };
 		CE5A4FFA29A13C5B00EB9D49 /* myDiceeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5A4FF929A13C5B00EB9D49 /* myDiceeUITests.swift */; };
 		CE5A4FFC29A13C5B00EB9D49 /* myDiceeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5A4FFB29A13C5B00EB9D49 /* myDiceeUITestsLaunchTests.swift */; };
+		CE5A500929A1415A00EB9D49 /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = CE5A500829A1415A00EB9D49 /* Fonts */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE5A4FF529A13C5B00EB9D49 /* myDiceeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myDiceeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5A4FF929A13C5B00EB9D49 /* myDiceeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myDiceeUITests.swift; sourceTree = "<group>"; };
 		CE5A4FFB29A13C5B00EB9D49 /* myDiceeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myDiceeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CE5A500829A1415A00EB9D49 /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Fonts; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				CE5A4FDA29A13C5800EB9D49 /* SceneDelegate.swift */,
 				CE5A4FDC29A13C5800EB9D49 /* ViewController.swift */,
 				CE5A4FDE29A13C5800EB9D49 /* Main.storyboard */,
+				CE5A500829A1415A00EB9D49 /* Fonts */,
 				CE5A4FE129A13C5A00EB9D49 /* Assets.xcassets */,
 				CE5A4FE329A13C5A00EB9D49 /* LaunchScreen.storyboard */,
 				CE5A4FE629A13C5A00EB9D49 /* Info.plist */,
@@ -234,6 +237,7 @@
 				CE5A4FE529A13C5A00EB9D49 /* LaunchScreen.storyboard in Resources */,
 				CE5A4FE229A13C5A00EB9D49 /* Assets.xcassets in Resources */,
 				CE5A4FE029A13C5800EB9D49 /* Main.storyboard in Resources */,
+				CE5A500929A1415A00EB9D49 /* Fonts in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
